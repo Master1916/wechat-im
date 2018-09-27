@@ -66,13 +66,3 @@ Terminal运行 gulp 即可开启WebSocket服务
 [ChangeLog](https://github.com/unmagic/wechat-im/blob/master/log/ChangeLog.md)
 
 [LICENSE](https://github.com/unmagic/wechat-im/blob/master/LICENSE)
-
-### 合作
-
-技术交流请加QQ群：821711186 
-
-如有合作意向或是想要推广您的产品，可加QQ：1178545208
-
-### 欢迎打赏
-
-<img src="https://github.com/unmagic/.gif/blob/master/admire/weixin.png" /><img src="https://github.com/unmagic/.gif/blob/master/admire/zhifubao.png" />
